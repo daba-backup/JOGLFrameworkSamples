@@ -2,7 +2,7 @@ package com.daxie.testspace.joglf.fundamental;
 
 import com.daxie.joglf.gl.front.KeyboardFront;
 import com.daxie.joglf.gl.front.WindowFront;
-import com.daxie.joglf.gl.input.KeyboardEnum;
+import com.daxie.joglf.gl.input.keyboard.KeyboardEnum;
 import com.daxie.joglf.gl.wrapper.GLVersion;
 import com.daxie.joglf.main.MainBase;
 import com.jogamp.opengl.GLAutoDrawable;
