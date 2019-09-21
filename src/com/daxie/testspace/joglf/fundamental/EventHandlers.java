@@ -39,7 +39,7 @@ public class EventHandlers extends MainBase{
 		super.display(drawable);
 		
 		//Close the window if ESC is pressed.
-		if(KeyboardFront.GetKeyboardPressingCount(KeyboardEnum.KEY_ESC)==1) {
+		if(KeyboardFront.GetKeyboardPressingCount(KeyboardEnum.KEY_ESCAPE)==1) {
 			WindowFront.CloseWindow();
 		}
 	}

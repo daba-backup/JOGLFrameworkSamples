@@ -37,7 +37,7 @@ public class Main extends MainBase{
 		
 		GLDrawFunctions3D.DrawAxes(100.0f);
 		
-		if(KeyboardFront.GetKeyboardPressingCount(KeyboardEnum.KEY_ESC)==1) {
+		if(KeyboardFront.GetKeyboardPressingCount(KeyboardEnum.KEY_ESCAPE)==1) {
 			WindowFront.CloseWindow();
 		}
 	}
