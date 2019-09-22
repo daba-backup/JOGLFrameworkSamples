@@ -16,11 +16,11 @@ import com.jogamp.opengl.GLAutoDrawable;
 
 //JOGLFramework version:1.0.0
 
-public class HitCheckWithAModel extends MainBase{
+public class HitCheckWithALevel_Capsule extends MainBase{
 	public static void main(String[] args) {
-		new HitCheckWithAModel(GLVersion.GL4);
+		new HitCheckWithALevel_Capsule(GLVersion.GL4);
 	}
-	public HitCheckWithAModel(GLVersion gl_version) {
+	public HitCheckWithALevel_Capsule(GLVersion gl_version) {
 		super(gl_version);
 	}
 	
