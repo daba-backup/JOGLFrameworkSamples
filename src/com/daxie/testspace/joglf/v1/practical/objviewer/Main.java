@@ -1,4 +1,4 @@
-package com.daxie.testspace.joglf.practical.objviewer;
+package com.daxie.testspace.joglf.v1.practical.objviewer;
 
 import com.daxie.joglf.gl.front.KeyboardFront;
 import com.daxie.joglf.gl.front.WindowFront;

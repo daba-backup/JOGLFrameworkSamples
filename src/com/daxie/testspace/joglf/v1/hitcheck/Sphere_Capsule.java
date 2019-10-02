@@ -1,4 +1,4 @@
-package com.daxie.testspace.joglf.hitcheck;
+package com.daxie.testspace.joglf.v1.hitcheck;
 
 import com.daxie.basis.coloru8.ColorU8Functions;
 import com.daxie.basis.vector.Vector;

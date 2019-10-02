@@ -1,4 +1,4 @@
-package com.daxie.testspace.joglf.fundamental;
+package com.daxie.testspace.joglf.v1.fundamental;
 
 import com.daxie.joglf.gl.wrapper.GLVersion;
 import com.daxie.joglf.main.MainBase;

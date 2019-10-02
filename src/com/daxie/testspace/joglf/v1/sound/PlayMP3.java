@@ -1,4 +1,4 @@
-package com.daxie.testspace.joglf.sound;
+package com.daxie.testspace.joglf.v1.sound;
 
 import com.daxie.joglf.al.player.MP3Player;
 import com.daxie.joglf.gl.front.KeyboardFront;

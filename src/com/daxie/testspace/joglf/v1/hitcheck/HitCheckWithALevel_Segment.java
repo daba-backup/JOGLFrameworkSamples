@@ -1,4 +1,4 @@
-package com.daxie.testspace.joglf.hitcheck;
+package com.daxie.testspace.joglf.v1.hitcheck;
 
 import java.util.ArrayList;
 import java.util.Iterator;

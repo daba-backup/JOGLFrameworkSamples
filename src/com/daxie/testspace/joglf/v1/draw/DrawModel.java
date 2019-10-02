@@ -1,4 +1,4 @@
-package com.daxie.testspace.joglf.draw;
+package com.daxie.testspace.joglf.v1.draw;
 
 import com.daxie.basis.vector.VectorFunctions;
 import com.daxie.joglf.gl.front.CameraFront;

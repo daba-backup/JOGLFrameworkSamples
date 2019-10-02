@@ -1,4 +1,4 @@
-package com.daxie.testspace.joglf.sound;
+package com.daxie.testspace.joglf.v1.sound;
 
 import com.daxie.basis.matrix.Matrix;
 import com.daxie.basis.matrix.MatrixFunctions;

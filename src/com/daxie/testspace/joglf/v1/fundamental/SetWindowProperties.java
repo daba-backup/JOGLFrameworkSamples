@@ -1,4 +1,4 @@
-package com.daxie.testspace.joglf.fundamental;
+package com.daxie.testspace.joglf.v1.fundamental;
 
 import com.daxie.basis.coloru8.ColorU8Functions;
 import com.daxie.joglf.gl.front.WindowFront;

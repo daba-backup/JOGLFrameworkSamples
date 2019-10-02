@@ -1,4 +1,4 @@
-package com.daxie.testspace.joglf.draw;
+package com.daxie.testspace.joglf.v1.draw;
 
 import com.daxie.basis.coloru8.ColorU8Functions;
 import com.daxie.joglf.gl.wrapper.GLDrawFunctions2D;

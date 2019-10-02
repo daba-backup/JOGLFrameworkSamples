@@ -1,4 +1,4 @@
-package com.daxie.testspace.joglf.model;
+package com.daxie.testspace.joglf.v1.model;
 
 import com.daxie.basis.vector.VectorFunctions;
 import com.daxie.joglf.gl.front.CameraFront;
